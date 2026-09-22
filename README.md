@@ -1,7 +1,8 @@
 ## Hi!👋
 
   - 👨‍🎓 I'm Diego, a Biomedical Scientist from Universidade de São Paulo (USP) on my way to start my Master's degree in Bioinformatics;
-  - 📊 At the moment, I'm learning R and Python for bioinformatical analysis.
+  - 📊 I mainly use Python for bioinformatical analysis;
+  - 🔬 And I'm conducting my research at the Computational Systems Biology Lab (CSBL), working with transcriptomic data from Colorectal Cancer samples.
 
 
 <h3 align="left">Connect with me:</h3>
